@@ -9,6 +9,7 @@ function App() {
             amazona
           </a>
         </div>
+        
         <div>
           <a href="/cart">Cart</a>
           <a href="/signin">Sign In</a>
